@@ -1,0 +1,3 @@
+rootProject.name = 'recepieapp_3399'
+
+include ':app'
